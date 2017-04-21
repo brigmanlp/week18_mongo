@@ -1,0 +1,27 @@
+{
+  "name": "week18_mongo",
+  "version": "1.0.0",
+  "description": "mongo_db scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brigmanlp/week18_mongo.git"
+  },
+  "author": "brigmanlp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brigmanlp/week18_mongo/issues"
+  },
+  "homepage": "https://github.com/brigmanlp/week18_mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.9.5",
+    "request": "^2.81.0"
+  }
+}
